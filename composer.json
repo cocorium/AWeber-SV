@@ -1,7 +1,6 @@
 {
-  "name": "TG/aweber",
+  "name": "TrueGenics/aweber",
   "description": "The official AWeber API client library. Modified.",
-  "homepage": "https://www.aweber.com",
   "license": "GPL-2.0",
   "keywords": [
     "email",
