@@ -1,6 +1,6 @@
 {
-  "name": "aweber/aweber",
-  "description": "The official AWeber API client library.",
+  "name": "TG/aweber",
+  "description": "The official AWeber API client library. Modified.",
   "homepage": "https://www.aweber.com",
   "license": "GPL-2.0",
   "keywords": [
@@ -9,9 +9,7 @@
     "client"
   ],
   "support": {
-    "email": "api@aweber.com",
-    "source": "https://github.com/aweber/AWeber-API-PHP-Library",
-    "issues": "https://github.com/aweber/AWeber-API-PHP-Library"
+
   },
   "autoload": {
     "classmap": [
